@@ -1,11 +1,11 @@
 <div align='center', id='topo'/>
 
-# Projeto CyberGames
+# 🎮 Projeto CyberGames 🎮
 ## Sistema de Loja de Games
 
 </div>
 
-![CyberGames Banner](https://raw.githubusercontent.com/username/cybergames/main/src/main/resources/img/cybergames.png)
+![CyberGames Banner](https://github.com/willaevangelista/cyber-games_java/blob/2730fd658172ae63e849b35775189b3b1604c94b/src/img/CyberGames_Banner.png)
 
 O projeto **CyberGames** é uma aplicação backend desenvolvida com o **Spring Framework**. O principal objetivo deste sistema é criar uma **API CRUD** para gerenciar produtos de uma loja de games, organizados por categorias. A aplicação segue boas práticas de desenvolvimento, utilizando uma arquitetura em camadas (*Model, Repository, Controller*) e relacionamento **One to Many** entre **Produto** e **Categoria**.
 
